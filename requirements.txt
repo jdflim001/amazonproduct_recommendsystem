@@ -1,0 +1,8 @@
+kagglehub
+numpy == 1.26.4
+pandas
+plotly >= 24.2
+statsmodel == 2.2.3
+scikit-surprise == 1.1.4
+scikit-learn == 1.6.1
+tqdm == 4.67.1
