@@ -23,6 +23,7 @@ This project explores Collaborative Filtering, specifically:
 <br>
 <br>
 # Results
+Final Results with TimeSVD++:
 - Overlap Rate / Hit Rate: 60.17% of users had at least one correct recommendation in their top 5. This means most users received at least one good suggestion.
 - Precision: 12.42% of recommended products were actually purchased by users.
 - Recall: 62.12% of all purchased products were successfully recommended. This means that across all purchases, a large portion was correctly predicted.
