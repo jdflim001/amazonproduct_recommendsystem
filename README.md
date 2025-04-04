@@ -11,7 +11,7 @@ The dataset used is the open-source Amazon Product Ratings data, which consists 
 #### Key Insights from the Dataset:
 ![alt text](image.png)
 Users tend to give positive reviews unless the product is highly unsatisfactory, in which case they rate it as 1.0.
-
+<br>
 ![alt text](image-1.png)
 While most users have rated fewer than 100 products, some have provided as many as 520 ratings.
 <br>
